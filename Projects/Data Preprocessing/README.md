@@ -45,7 +45,7 @@ The project uses a **customer churn dataset** containing customer details and fe
 Data Preprocessing/
 │
 ├── Dataset/
-│   └── Churn_modelling.csv
+│   └── churn model.csv
 │
 ├── Notebook/
 │   ├── Churn1.ipynb
