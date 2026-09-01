@@ -48,7 +48,7 @@ Data Preprocessing/
 │   └── churn model.csv
 │
 ├── Notebook/
-│   ├── Churn1.ipynb
+│   ├── Churn_Notebook.ipynb
 │   └── Feature_Scaling.ipynb
 │
 └── README.md
